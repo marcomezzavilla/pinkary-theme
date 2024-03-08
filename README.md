@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This theme is a variation on Pinkery's current theme as of March 2024. I have no intention of infringing any copyrights.
+> This theme is a variation on Pinkary's current theme as of March 2024. I have no intention of infringing any copyrights.
 
 
 ## What is it?
